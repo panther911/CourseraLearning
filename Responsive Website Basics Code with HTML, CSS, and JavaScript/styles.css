@@ -1,0 +1,10 @@
+
+/*changes h1 font, size and color and adds a border */
+h1{
+
+    color: aqua;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    border: 2px solid black;
+    text-align: center;
+    
+}
